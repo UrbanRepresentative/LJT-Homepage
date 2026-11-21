@@ -13,7 +13,7 @@ redirect_from:
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024–Present)
   - HKUST NLP Group
-  - Supervisor: Prof. Junxian He
+  - Supervisor: Professor Junxian He
 - **B.Eng.**, Shanghai Jiao Tong University (2020–2024)
   - Graduated in June 2024
 
