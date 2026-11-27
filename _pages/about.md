@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group, supervised by [Prof. Junxian He](https://www.jxhe.cn/). My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by  Prof. Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 Education
 ======
@@ -18,7 +18,7 @@ Research experience
 ======
 * **Research Intern**, MINIMAX, February 2025 – Present
 * **Research Intern**, Tencent WXG, June 2024 – September 2024 (advised by  Zifei Shan)
-* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advised by Prof.  Yu Cheng)
+* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advised by Prof.   Yu Cheng)
 
 Research interests
 ======
@@ -36,18 +36,18 @@ Publications
 
 **2025**
 
-* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv) — **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-* **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv) — **Junteng Liu**,  Weihao Zeng, Xiwen Zhang,  Yijun Wang,  Zifei Shan,  Junxian He
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv) — **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen,  Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv) — **Junteng Liu**,   Weihao Zeng, Xiwen Zhang,   Yijun Wang,   Zifei Shan,   Junxian He
 
 **2024**
 
-* **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — **Junteng Liu**, Shiqi Chen,  Yu Cheng, Junxian He
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 
 **2023**
 
-* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) —  Yuzhen Huang,  Yuzhuo Bai,  Zhihao Zhu,  Junlei Zhang,  Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv,  Yikai Zhang,  Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
-* **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) —  Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) —   Yuzhen Huang,   Yuzhuo Bai,   Zhihao Zhu,   Junlei Zhang,   Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv,   Yikai Zhang,   Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+* **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) —   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
 
 Awards
 ======
